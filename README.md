@@ -21,4 +21,5 @@ Step 2, access the workflows channel (after you join):
 ### 3) Workflows on Google Drive (backup mirror)
 [![Download from Google Drive](https://img.shields.io/badge/DOWNLOAD-From%20Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1fnVVbbTBmDe527aS7Ih5v9baCkOCKrbw?usp=sharing)
 
-Note: GitHub and Google Drive can sometimes rate-limit downloads if there is heavy traffic. If a link is slow or blocked, use Discord.
+> Note: GitHub and Google Drive may rate-limit downloads during high traffic.  
+> If a mirror is slow or temporarily blocked, please use Discord.
